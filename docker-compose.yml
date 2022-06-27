@@ -38,7 +38,7 @@ jd_scripts:
     #企业微信机器人通知
     - QYWX_KEY=
     #京东种豆得豆
-    - PLANT_BEAN_SHARECODES=
+    - PLANT_BEAN_SHARECODES=4zjuwa3rljkzq6qxf5ruhbyct45ac3f4ijdgqji
     #京东农场
     # 例: FRUITSHARECODES=京东农场的互助码
     - FRUITSHARECODES=
